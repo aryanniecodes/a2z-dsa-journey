@@ -5,7 +5,7 @@ Hi! 👋
 I am currently learning Data Structures and Algorithms from the Striver A2Z DSA Sheet.
 
 Along with DSA, I am also learning Git and GitHub.  
-This repository is where I push all my practice codes to improve my Git commands and maintain consistency.
+This repository is where I push all my practice codes to improve my Git commands and maintain consistency
 
 ---
 
